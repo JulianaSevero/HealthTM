@@ -76,8 +76,7 @@ mitigation assignments, and inherited ATT&CK identifiers. Confirm before exit:
 
 ## Iteration triggers
 
-`- [ ]` new or changed threat · `- [ ]` mitigation deployed or failed ·
-`- [ ]` vendor patch status change · `- [ ]` regulatory update.
+Revisit this artifact on system change, new device or integration, topology change or/and new data flow in scope
 
 ## Version control & sign-off
 
